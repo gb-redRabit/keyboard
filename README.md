@@ -7,4 +7,4 @@ Prosta aplikacja która umożliwia sprawdzanie czy danym klawisz na klawiaturze 
 Napisane w czystym JavaScript 
 
 ## GitHub Puges
-https://grzbejta.github.io/keyboard/
+https://gb-redRabit.github.io/keyboard/
